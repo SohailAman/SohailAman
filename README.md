@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Advanced Firebase
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
-Upwork: https://www.upwork.com/freelancers/~01f8267c7b73f1becb
+- Upwork: https://www.upwork.com/freelancers/~01f8267c7b73f1becb
 
