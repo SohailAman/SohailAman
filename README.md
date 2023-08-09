@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohail Aman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohailaman&no-frame=true&no-bg=true&column=7" alt="sohailaman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohailaman&no-frame=true&column=7" alt="sohailaman" /></a> </p>
 
 - 🌱 I’m currently learning **JS frameworks**
 
