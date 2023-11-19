@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohailaman&theme=nord&no-frame=true&column=8" alt="sohailaman" /></a> </p>
 
-- 🌱 I’m currently learning **JS frameworks**
+- 🌱 I’m currently learning **Next and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://sohailaman.github.io/portfolio/](https://sohailaman.github.io/portfolio/)
 
