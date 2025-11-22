@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sohail Aman</h1> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohailaman&theme=nord" alt="sohailaman" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohailaman&theme=nord" alt="sohailaman" /></a> </p> -->
 
 - 🌱 I’m currently learning **Next and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://sohailaman.github.io/portfolio/](https://sohailaman.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://vibecoder.vercel.app/](https://vibecoder.vercel.app/)
 
 - 📫 How to reach me **sohailaman121@gmail.com**
 
