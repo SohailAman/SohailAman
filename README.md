@@ -2,13 +2,13 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohailaman&theme=nord" alt="sohailaman" /></a> </p> -->
 
-- 🌱 I’m currently learning **Next and TypeScript**
-
 - 👨‍💻 All of my projects are available at [https://vibecoder.vercel.app/](https://vibecoder.vercel.app/)
 
 - 📫 How to reach me **sohailaman121@gmail.com**
 
 - 📄 Know about my experiences [https://sohailaman.github.io/portfolio/documents/resume.pdf](https://sohailaman.github.io/portfolio/documents/resume.pdf)
+
+- 🌱 I’m currently learning **React Native**
 
 - ⚡ Fun fact **I'm a Coder😁**
 
